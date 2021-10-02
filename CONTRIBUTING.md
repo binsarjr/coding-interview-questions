@@ -1,9 +1,7 @@
-# Kontribusi ke Coding Interview Question
+# Contributing to Coding Interview Questions
 
-- [Cara berkontribusi](#cara-berkontribusi)
-
-## Cara berkontribusi
-1. _Fork_ repositorynya dengan benar.
-2. Clone forked repository Anda.
-3. Buat branch baru dari main dengan format `username/topic` (cth. `binsar/test`).
-4. Bikin pull request baru.
+## How to contribute
+1. _Fork_ this repository.
+2. Clone forked your repository.
+3. Make a new branch from `main` branch with format `username/topic` (e.g `binsar/test`).
+4. Make a new pull request from your branch.
