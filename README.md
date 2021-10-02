@@ -1,7 +1,7 @@
 # Coding Interview Questions
 Coding interview collection and solutions
 
-You can discuss unfinished coding interviews in the discussion menu.
+You can discuss unfinished coding interviews in the discussion menu. Create solution with your any programming language.
 
 ## Getting Started
 
