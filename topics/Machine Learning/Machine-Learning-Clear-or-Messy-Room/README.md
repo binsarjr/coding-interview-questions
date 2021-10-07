@@ -14,5 +14,5 @@ description: Pernah Belajar di kelas dicoding*com salah satunya adalah latihan m
 
 # Tips sebelum menjalankannya
 
-1. Menggunakan https://colab.research.google.com, itss easy just upload .ipynb file
+1. Menggunakan https://colab.research.google.com, it's easy just upload .ipynb file
 2. Lebih Banyak foto yang di upload, semakin tinggi tingkat akurasinya
