@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<alpha xmlns:android="http://schemas.android.com/apk/res/android"
+           android:interpolator="@android:anim/accelerate_interpolator"
+           android:fromAlpha="0.0" android:toAlpha="1.0"
+           android:duration="500" />
+//here fade in transition effect is used when we switch to another activity
+//"android:duration" and it is used to increase or decrease the transition effect duration
