@@ -24,6 +24,7 @@ An instance of a binding class contains direct references to all views that have
 
 ```
 More info about View Binding click [here](https://developer.android.com/topic/libraries/view-binding)
+
 **Data Binding Library**
 ```
 The Data Binding Library is a support library that allows you to bind UI components in your layouts to data sources in your app using a declarative
