@@ -1,0 +1,13 @@
+//this is used to set the animation in the lottie view 
+//also used to set parameters like animation speed,progress etc.
+fun setupAnim() {
+        binding.animationView.speed=0.90F
+        binding.animationView.setMinProgress(0.18F)
+        binding.animationView.playAnimation()
+    }
+
+    fun touchAnim() {
+        binding.animationView.setOnClickListener {
+            binding.animationView.playAnimation()
+        }
+    }
