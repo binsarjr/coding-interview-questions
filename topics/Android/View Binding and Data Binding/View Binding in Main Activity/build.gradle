@@ -4,4 +4,4 @@ android {
         viewBinding true
     }
 }
-//It enables the view binding feature so that we can use it
+//Here we have to explicitly enable the view binding
