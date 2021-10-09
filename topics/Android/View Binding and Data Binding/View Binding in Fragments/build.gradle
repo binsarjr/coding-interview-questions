@@ -1,0 +1,7 @@
+android {
+    ...
+    buildFeatures {
+        viewBinding true
+    }
+}
+//Here we have to explicitly enable the view binding
