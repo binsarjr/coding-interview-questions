@@ -1,0 +1,6 @@
+<Spinner
+    android:id="@+id/planets_spinner"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content" 
+    android:enteries="@array/planets"   />
+//here I have created a spinner with a ID but you have give the constraints
